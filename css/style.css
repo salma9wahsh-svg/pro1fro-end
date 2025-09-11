@@ -197,7 +197,7 @@ text-transform: capitalize;
 .welcome-a{
     text-decoration: none;
     margin-bottom: 10;
-    color: ;
+    color:rgb(79, 17, 136)
 }
 .welcome-p{
     color: grey;
@@ -792,7 +792,11 @@ text-transform: capitalize;
 }
 .recent-icons a{
     padding: 0 16;
+    color: rgb(79, 17, 136);
 
+}
+.recent-a{
+    color:rgb(79, 17, 136);
 }
 .recent-icons span{
     margin-left: -18;
@@ -868,6 +872,7 @@ text-transform: capitalize;
     color:rgb(104, 103, 103);
     text-align: center;
     font-size: 13;
+    text-transform: uppercase;
 }
 
 
